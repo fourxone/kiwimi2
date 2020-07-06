@@ -36,6 +36,6 @@ Example:
 in developing...
 
 ## About.
-This project made by Skvortsov Nikita Dmitrievich © 4X1.PW 2020
+This project made by Skvortsov Nikita Dmitrievich © 4X1.PW 2020<br>
 Kiwi MI 2 is licensed under the terms of the Mozilla Public License 2.0
 <br>[<img src="https://4x1.pw/assets/images/logo/logofullblack.svg" width="100">](https://4x1.pw/)
