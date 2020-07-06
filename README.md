@@ -1,15 +1,15 @@
-[<p align="center"><img src="https://4x1.pw/kiwimi2/img/logowh.png" width="370"></p>](https://4x1.pw/kiwimi2/)
+[<p align="center"><img src="https://4x1.pw/projects/kiwimi2/img/logowh.png" width="370"></p>](https://4x1.pw/kiwimi2/)
 # Kiwi MI 2 I'm <3 Modal Images
 A modal window with images and a slider in one
 
 ## Live version
-[DEMO](https://4x1.pw/kiwimi2/)
+[DEMO](https://4x1.pw/projects/kiwimi2/)
 
 ## How to install?
 Copy and paste on your site just one line (to any place). Congratulations, you are breathtaking!
 
 ```html
-<script src="https://4x1.pw/kiwimi2/js/kiwimi2.js"></script>
+<script src="https://4x1.pw/projects/kiwimi2/js/kiwimi2.js"></script>
 ```
 
 ## Modal window
