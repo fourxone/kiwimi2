@@ -1,4 +1,4 @@
-[<p align="center"><img src="https://4x1.pw/projects/kiwimi2/img/logowh.png" width="370"></p>](https://4x1.pw/kiwimi2/)
+[<p align="center"><img src="https://4x1.pw/projects/kiwimi2/img/logowh.png" width="370"></p>](https://4x1.pw/projects/kiwimi2/)
 # Kiwi MI 2 I'm <3 Modal Images
 A modal window with images and a slider in one
 
