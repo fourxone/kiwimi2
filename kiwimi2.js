@@ -965,5 +965,5 @@ const k_head = document.getElementsByTagName('HEAD')[0];
 const k_link_css = document.createElement('link');
 k_link_css.rel = 'stylesheet';
 k_link_css.type = 'text/css';
-k_link_css.href = 'https://4x1.pw/kiwimi2/css/kiwimi2.css';
+k_link_css.href = 'https://4x1.pw/projects/kiwimi2/css/kiwimi2.css';
 k_head.appendChild(k_link_css);
