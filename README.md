@@ -21,7 +21,7 @@ Example:
 ```
 
 ## Slider
-In order for the slider to work, you need to create a div with id = "k_slider", you can set the dimensions and other properties yourself. The script takes the dimensions of the block and adjusts itself to them. Then in the created div you need to insert <img> with src and alt attributes. Слайдер поддерживает ссылки. Для того, чтобы они заработали добавьте в <img> атрибут k_url="example.html".
+In order for the slider to work, you need to create a div with id="k_slider", you can set the dimensions and other properties yourself. The script takes the dimensions of the block and adjusts itself to them. Then in the created div you need to insert <img> with src and alt attributes. Slider supports links. In order for them to work, add the k_url="example.html" attribute to the <img>.
 
 Example:
 ```html
