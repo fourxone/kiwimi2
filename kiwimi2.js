@@ -12,7 +12,7 @@ window.onload = function() {
   }
 
   // Основные элементы
-  const k_version = 'v0.0.8'
+  const k_version = 'v1.0.0'
   let k_images = document.querySelectorAll('img[k_modal="1"]');
   if (k_images.length == 0) {
     k_images = document.querySelectorAll('img');
