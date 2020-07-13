@@ -953,6 +953,8 @@ window.onload = function() {
       setTimeout(function() {k_slider_box.style.transition = 'all 0.6s cubic-bezier(0.46, 0.03, 0.52, 0.96)'}, 100);
     }
 
+    document.querySelector(`div#${k_options['slider']}`).setAttribute('style', `${document.querySelector(`div#${k_options['slider']}`).getAttribute('style')} overflow: hidden; position: relative;`);
+
     // Изменение размера экрана
     window.addEventListener('resize',function() {
       k_slider_screen_resize();
