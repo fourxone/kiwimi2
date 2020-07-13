@@ -12,6 +12,8 @@ Copy and paste on your site just one line (to any place). Congratulations, you a
 <script src="https://4x1.pw/projects/kiwimi2/js/kiwimi2.js"></script>
 ```
 
+upd: if you use the link, perhaps the adblock extension will swear at a third-party resource. In this case, just download the working file kiwimi2.js and upload it to your website.
+
 ## Modal window
 By default, the script searches for all images in the body of the site. If you set the k_modal="1" attribute to the <img> tag, the script will only search for an image with this attribute.
 
